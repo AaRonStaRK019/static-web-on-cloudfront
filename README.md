@@ -119,6 +119,8 @@ This guide provides step-by-step instructions for hosting a static website on Am
    - Wait a while for the Cloudfront Distribution to be deployed.
    - Once the CloudFront distribution is deployed, access your website using the CloudFront domain name (or your custom domain if you've configured it.)
 
+   ![now hosted with cloudfront](./img/12-website-hosted-with-cloudfront_Original.PNG)
+
 10. **Clean Up**
     - If you no longer need the S3 bucket, CloudFront distribution, or any associated resources, you can delete them to avoid ongoing charges.
     - Delete the Cloudfront Distribution:
